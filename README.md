@@ -1,4 +1,4 @@
-## US Household Income Analysis
+# US Household Income Analysis
 
 ## Project Overview
 
