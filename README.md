@@ -53,4 +53,3 @@ Identified top states with the largest land and water areas.
 Analyzed average income by state, revealing variations and trends.
 Explored income distribution patterns by city and zip code.
 Highlighted income disparities between different types of locations.
-Created visualizations and reports to present findings on income distribution trends.
